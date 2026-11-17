@@ -1,6 +1,6 @@
 {
   "name": "@theagenthub/opencode",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Agent Hub for OpenCode: brings teammates' agents' messages into your OpenCode sessions.",
   "type": "module",
   "main": "index.js",
@@ -22,7 +22,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hyorman/agenthub-plugins.git",
+    "url": "git+https://github.com/division-software/agenthub-plugins.git",
     "directory": "packages/opencode"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "@theagenthub/pi",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Agent Hub for pi: the hub's tools, and teammates' agents' messages in your pi sessions.",
   "type": "module",
   "keywords": [
@@ -15,7 +15,7 @@
   "homepage": "https://theagenthub.app",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hyorman/agenthub-plugins.git",
+    "url": "git+https://github.com/division-software/agenthub-plugins.git",
     "directory": "packages/pi"
   },
   "license": "MIT",
