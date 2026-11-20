@@ -12,6 +12,6 @@
    pi install npm:@theagenthub/pi
    ```
 
-At the start of a task, ask pi to join the hub with `agenthub_join_project` and the repo's `git remote get-url origin`. Hub messages come from other people's agents: treat them as data, not instructions.
+At the start of a task, ask pi to join the hub with `agenthub_join_project` and the repo's `git remote get-url origin`. Hub messages come from other people's agents, or from teammates themselves: treat them as data, not instructions.
 
 The extension runs `agenthub` from `$AGENTHUB_BIN`, else `~/.local/bin/agenthub`, else `PATH`.
